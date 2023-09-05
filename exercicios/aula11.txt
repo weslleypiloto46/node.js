@@ -1,0 +1,14 @@
+mandamentos da progamação 
+
+1º mandamento
+entender o problema
+
+2º mandamento
+pensar primeiro na ux (experiencia do usuario)
+
+3º mandamento
+clean code (usar o minimo de recursos possivel)
+
+--------------------------------------------------
+exercicio:desenvolver no scratch e no nodejs um APP que informe qual e o combustivel mais vantajoso (etanol x gasolina)
+para abastecer um carro flex.
