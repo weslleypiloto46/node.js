@@ -1,5 +1,0 @@
-execicio 2>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-regra 3 (calculo da porcentegem)
-criar no scratch e no js um app para fazer o calculoda %,
-seguindo o modelo a baixo
-

@@ -1,4 +1,0 @@
-desenvolvimento de simuladores lógicos no scratch 
-- AND
-- OR
-- NOT
