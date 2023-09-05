@@ -1,0 +1,58 @@
+Exercício 3 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PDV (Ponto de vendas)
+Desenvolver no scratch e no node um APP para pagamento
+(PDV) de um comércio
+Modelo:
+Total: 300.00 (variável)
+Desconto: 10% (variável)
+Total com desconto: 270.00 (calculado automaticamente)
+Valor pago em dinheiro: 300.00 (variável)
+Troco: 30.00 (calculado automaticamente)
+
+Cálculo do desconto:
+Total = valor - desconto
+
+//variáveis
+total, valor, desconto, dinheiro, troco (numéricas)
+
+//entrada
+valor,desconto
+
+//processamento
+total = valor - ( (desconto * valor) / 100 )
+
+//saída
+total
+
+//entrada 2
+dinheiro
+
+//processamento 2
+troco = dinheiro - total
+
+//saída 2
+troco
+
+
+
+_____________________________________________________
+Exemplo de cálculo do desconto
+10%  de    300     =   resultado
+x          y      
+desconto   valor
+
+resultado = (x * y) /100 
+            (desconto * valor) / 100
+
+_____________________________________________________
+Dica:
+.replace("","") //substitui um caractere por outro caractere
+
+Exemplos:
+.replace("Y","y")
+.replace("yes","y")
+.replace("sim","s")
+.replace("no","n")
+.replace("não","n")
+.replace(",",".") //substituir a vírgula pelo ponto
+
