@@ -1,0 +1,21 @@
+POO
+
+Pilares:
+- Abstração
+- Herança
+- Polimorfismo
+- Encapsulamento
+
+//Abstração
+Classe modelo - objetos
+
+//Herança
+Extende(reutiliza) atributos e métodos da classe principal
+
+//Polimorfismo
+Modifica o comportamento de um método existente na classe principal
+
+//Encapsulamento
+Segurança (protege o acesso as variáveis)
+-- Atributos(variáveis) -> privados
+-- Métodos específicos (get e set) são usados para acessar as variáveis

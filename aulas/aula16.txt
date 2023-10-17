@@ -1,0 +1,6 @@
+Atividade de avaliação:
+Escolher um desafio:
+- Desenvolvimento do jogo Pedra - Papel - Tesoura
+- Jogo de RPG
+(material de apoio na pasta pública)
+Desenvolver no console node.js

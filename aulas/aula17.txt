@@ -1,0 +1,23 @@
+Estruturas de controle
+Laços de repetições
+Laço for (número determinado de repetições):
+- É a única estrutura que permite criar internamente uma variável do tipo numérico inteiro
+- início; condição; incremento/decremento
+- O laço é repetido enquanto a condição for verdadeira
+
+for (let i = 1; i < 10; i++) {
+
+}
+
+Criando um laço for dentro de outro laço for
+for() {
+    for() {
+
+    }
+}
+
+Observações:
+1) usar nomes diferentes de variáveis internas
+2) o incremento ou decremento do laço principal só é executado após a finalização do laço for interno.
+
+
