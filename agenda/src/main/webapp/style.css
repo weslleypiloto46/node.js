@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+:root{
+	--font-titulo: "Madimi One", sans-serif;
+	--font-texto: 'Josefin Sans, sans-serif';
+}
+
+.titulo{
+	font-family: var(--font-titulo);
+}
+
+.texto p, .texto a{
+	font-family: var(--font-texto);
+}
+
+form{
+	width: 50%;
+	margin: 0 auto;
+}
+
